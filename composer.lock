@@ -1,0 +1,38 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c9229fa0faedda7498dfa1f9a9ed902c",
+    "packages": [
+        {
+            "name": "yiisoft/yii",
+            "version": "1.1.16",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yiisoft/yii.git",
+                "reference": "bca0420b6799b0b2a7966aa90bcd15cb4aa73563"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/yiisoft/yii/archive/bca0420b6799b0b2a7966aa90bcd15cb4aa73563.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library",
+            "description": "Yii PHP Framework",
+            "homepage": "https://github.com/yiisoft/yii"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.2"
+    },
+    "platform-dev": []
+}
